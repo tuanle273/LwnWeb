@@ -111,13 +111,13 @@ animation-delay: -5s;
 }
 @-webkit-keyframes preLoad {
   0% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
   }
   10% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
   }
   20% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
   }
   30% {
     background-image: url("https://picsum.photos/420/300?random=4");
@@ -131,13 +131,13 @@ animation-delay: -5s;
 }
 @keyframes preLoad {
   0% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
   }
   10% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
   }
   20% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
   }
   30% {
     background-image: url("https://picsum.photos/420/300?random=4");
@@ -311,13 +311,13 @@ animation-delay: -5s;
 }
 @-webkit-keyframes nextPage {
   0% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
   }
   20% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
   }
   40% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
   }
   60% {
     background-image: url("https://picsum.photos/420/300?random=4");
@@ -328,13 +328,13 @@ animation-delay: -5s;
 }
 @keyframes nextPage {
   0% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
   }
   20% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
   }
   40% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
   }
   60% {
     background-image: url("https://picsum.photos/420/300?random=4");
@@ -479,27 +479,27 @@ animation-delay: -5s;
 
 @-webkit-keyframes nextFlip1 {
   0% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -178px -2px;
     transform: rotateY(0deg);
   }
   10% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -210px -2px;
     transform: rotateY(180deg);
   }
   20% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -178px -2px;
     transform: rotateY(0deg);
   }
   30% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -210px -2px;
     transform: rotateY(180deg);
   }
   40% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -178px -2px;
     transform: rotateY(0deg);
   }
@@ -524,7 +524,7 @@ animation-delay: -5s;
     transform: rotateY(0deg);
   }
   90% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -210px -2px;
     transform: rotateY(180deg);
   }
@@ -532,27 +532,27 @@ animation-delay: -5s;
 
 @keyframes nextFlip1 {
   0% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -178px -2px;
     transform: rotateY(0deg);
   }
   10% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -210px -2px;
     transform: rotateY(180deg);
   }
   20% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -178px -2px;
     transform: rotateY(0deg);
   }
   30% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -210px -2px;
     transform: rotateY(180deg);
   }
   40% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -178px -2px;
     transform: rotateY(0deg);
   }
@@ -577,34 +577,34 @@ animation-delay: -5s;
     transform: rotateY(0deg);
   }
   90% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -210px -2px;
     transform: rotateY(180deg);
   }
 }
 @-webkit-keyframes nextFlip2 {
   0% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -148px -2px;
     transform: rotateY(0deg);
   }
   10.5% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -238px -2px;
     transform: rotateY(180deg);
   }
   20% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -148px -2px;
     transform: rotateY(0deg);
   }
   30.5% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -238px -2px;
     transform: rotateY(180deg);
   }
   40% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -148px -2px;
     transform: rotateY(0deg);
   }
@@ -629,34 +629,34 @@ animation-delay: -5s;
     transform: rotateY(0deg);
   }
   90.5% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -238px -2px;
     transform: rotateY(180deg);
   }
 }
 @keyframes nextFlip2 {
   0% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -148px -2px;
     transform: rotateY(0deg);
   }
   10.5% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -238px -2px;
     transform: rotateY(180deg);
   }
   20% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -148px -2px;
     transform: rotateY(0deg);
   }
   30.5% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -238px -2px;
     transform: rotateY(180deg);
   }
   40% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -148px -2px;
     transform: rotateY(0deg);
   }
@@ -681,34 +681,34 @@ animation-delay: -5s;
     transform: rotateY(0deg);
   }
   90.5% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -238px -2px;
     transform: rotateY(180deg);
   }
 }
 @-webkit-keyframes nextFlip3 {
   0% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -118px -2px;
     transform: rotateY(0deg);
   }
   11% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -268px -2px;
     transform: rotateY(180deg);
   }
   20% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -118px -2px;
     transform: rotateY(0deg);
   }
   31% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -268px -2px;
     transform: rotateY(180deg);
   }
   40% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -118px -2px;
     transform: rotateY(0deg);
   }
@@ -733,34 +733,34 @@ animation-delay: -5s;
     transform: rotateY(0deg);
   }
   91% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -268px -2px;
     transform: rotateY(180deg);
   }
 }
 @keyframes nextFlip3 {
   0% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -118px -2px;
     transform: rotateY(0deg);
   }
   11% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -268px -2px;
     transform: rotateY(180deg);
   }
   20% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -118px -2px;
     transform: rotateY(0deg);
   }
   31% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -268px -2px;
     transform: rotateY(180deg);
   }
   40% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -118px -2px;
     transform: rotateY(0deg);
   }
@@ -785,34 +785,34 @@ animation-delay: -5s;
     transform: rotateY(0deg);
   }
   91% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -268px -2px;
     transform: rotateY(180deg);
   }
 }
 @-webkit-keyframes nextFlip4 {
   0% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -88px -2px;
     transform: rotateY(0deg);
   }
   11.5% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -298px -2px;
     transform: rotateY(180deg);
   }
   20% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -88px -2px;
     transform: rotateY(0deg);
   }
   31.5% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -298px -2px;
     transform: rotateY(180deg);
   }
   40% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -88px -2px;
     transform: rotateY(0deg);
   }
@@ -837,34 +837,34 @@ animation-delay: -5s;
     transform: rotateY(0deg);
   }
   91.5% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -298px -2px;
     transform: rotateY(180deg);
   }
 }
 @keyframes nextFlip4 {
   0% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -88px -2px;
     transform: rotateY(0deg);
   }
   11.5% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -298px -2px;
     transform: rotateY(180deg);
   }
   20% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -88px -2px;
     transform: rotateY(0deg);
   }
   31.5% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -298px -2px;
     transform: rotateY(180deg);
   }
   40% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -88px -2px;
     transform: rotateY(0deg);
   }
@@ -889,34 +889,34 @@ animation-delay: -5s;
     transform: rotateY(0deg);
   }
   91.5% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -298px -2px;
     transform: rotateY(180deg);
   }
 }
 @-webkit-keyframes nextFlip5 {
   0% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -58px -2px;
     transform: rotateY(0deg);
   }
   12% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -328px -2px;
     transform: rotateY(180deg);
   }
   20% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -58px -2px;
     transform: rotateY(0deg);
   }
   32% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -328px -2px;
     transform: rotateY(180deg);
   }
   40% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -58px -2px;
     transform: rotateY(0deg);
   }
@@ -941,34 +941,34 @@ animation-delay: -5s;
     transform: rotateY(0deg);
   }
   92% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -328px -2px;
     transform: rotateY(180deg);
   }
 }
 @keyframes nextFlip5 {
   0% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -58px -2px;
     transform: rotateY(0deg);
   }
   12% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -328px -2px;
     transform: rotateY(180deg);
   }
   20% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -58px -2px;
     transform: rotateY(0deg);
   }
   32% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -328px -2px;
     transform: rotateY(180deg);
   }
   40% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -58px -2px;
     transform: rotateY(0deg);
   }
@@ -993,34 +993,34 @@ animation-delay: -5s;
     transform: rotateY(0deg);
   }
   92% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -328px -2px;
     transform: rotateY(180deg);
   }
 }
 @-webkit-keyframes nextFlip6 {
   0% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -28px -2px;
     transform: rotateY(0deg);
   }
   12.5% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -358px -2px;
     transform: rotateY(180deg);
   }
   20% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -28px -2px;
     transform: rotateY(0deg);
   }
   32.5% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -358px -2px;
     transform: rotateY(180deg);
   }
   40% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -28px -2px;
     transform: rotateY(0deg);
   }
@@ -1045,34 +1045,34 @@ animation-delay: -5s;
     transform: rotateY(0deg);
   }
   92.5% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -358px -2px;
     transform: rotateY(180deg);
   }
 }
 @keyframes nextFlip6 {
   0% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -28px -2px;
     transform: rotateY(0deg);
   }
   12.5% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -358px -2px;
     transform: rotateY(180deg);
   }
   20% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -28px -2px;
     transform: rotateY(0deg);
   }
   32.5% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -358px -2px;
     transform: rotateY(180deg);
   }
   40% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -28px -2px;
     transform: rotateY(0deg);
   }
@@ -1097,34 +1097,34 @@ animation-delay: -5s;
     transform: rotateY(0deg);
   }
   92.5% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -358px -2px;
     transform: rotateY(180deg);
   }
 }
 @-webkit-keyframes nextFlip7 {
   0% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -2px -2px;
     transform: rotateY(0deg);
   }
   13% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -388px -2px;
     transform: rotateY(180deg);
   }
   20% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -2px -2px;
     transform: rotateY(0deg);
   }
   33% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -388px -2px;
     transform: rotateY(180deg);
   }
   40% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -2px -2px;
     transform: rotateY(0deg);
   }
@@ -1149,34 +1149,34 @@ animation-delay: -5s;
     transform: rotateY(0deg);
   }
   93% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -388px -2px;
     transform: rotateY(180deg);
   }
 }
 @keyframes nextFlip7 {
   0% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -2px -2px;
     transform: rotateY(0deg);
   }
   13% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -388px -2px;
     transform: rotateY(180deg);
   }
   20% {
-    background-image: url("https://picsum.photos/420/300?random=2");
+    background-image: url("./asset/lwn4.jpg");
     background-position: -2px -2px;
     transform: rotateY(0deg);
   }
   33% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -388px -2px;
     transform: rotateY(180deg);
   }
   40% {
-    background-image: url("https://picsum.photos/420/300?random=3");
+    background-image: url("./asset/lwn5.jpg");
     background-position: -2px -2px;
     transform: rotateY(0deg);
   }
@@ -1201,7 +1201,7 @@ animation-delay: -5s;
     transform: rotateY(0deg);
   }
   93% {
-    background-image: url("https://picsum.photos/420/300?random=1");
+    background-image: url("./asset/lwn3.jpg");
     background-position: -388px -2px;
     transform: rotateY(180deg);
   }
